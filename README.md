@@ -37,7 +37,7 @@ I am a Computer Science graduate with a strong passion for technology, data anal
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anfalm32" alt="anfalm32" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anfalm32&" alt="anfalm32" />
 </p>
 
 ---
