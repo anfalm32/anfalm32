@@ -8,18 +8,26 @@ I'm glad you're here. Let's connect and explore the world of data together.
 
 ---
 
-**I'm Anfal Mahmoud**, a dedicated Data Analyst from Egypt with a strong commitment to extracting valuable insights from data to drive informed decision-making. Skilled in data analysis, visualization, and statistical techniques, I specialize in transforming raw data into actionable insights that support strategic goals. With a hands-on approach and proficiency in tools like Python, SQL, and Power BI, I aim to make data understandable and impactful for effective business solutions. 
-- 📄 Know about my experiences **[here]()**
+### 👩‍💻 Anfal Mahmoud - Data Analyst | Database Developer | Technical Support
+
+I am a Computer Science graduate with a strong passion for technology, data analysis, and continuous learning. I specialize in transforming data into actionable insights and optimizing processes to add real business value. With a knack for problem-solving and teaching, I’m dedicated to using my skills to streamline workflows and enable data-driven decision-making.
+- 📄 Know about my experiences **[here](https://drive.google.com/file/d/1MRgDrAuFOmfwchf9nY9rGieO09aMhEco/view?usp=drive_link)**
 
 ---
 
 ### 🔧 Skills & Technologies
-- **🌱Languages**: Python, SQL
-- **📊Data Analysis**: Pandas, NumPy, Statistical Analysis
-- **🔭Data Visualization**: Power BI, Matplotlib, Seaborn
-- **👯Database Management**: SQL Server, MySQL
-- **🔧Tools & Platforms**: Excel, Google Colab
+    Data Analysis & Visualization:* SQL, Excel, Power BI
+    Database Management:* SQL, Excel
+    Programming & Automation:* Python
+    Version Control:* Git & GitHub
 
+---
+
+### 💼 Experience Highlights
+    Dashboard Development:* Skilled in creating interactive, insightful dashboards to drive strategic decisions.
+    Process Optimization:* Automating workflows to enhance efficiency and accuracy.
+    Mentoring & Training:* Certified Trainer (TOT), with a focus on teaching technical skills and guiding others.
+    
 ---
 
 ### 📈 GitHub Stats
@@ -37,13 +45,11 @@ I'm glad you're here. Let's connect and explore the world of data together.
 ### 🤝 Let's Connect
 Feel free to reach out if you'd like to discuss data projects, collaborate, or just connect!
 
-[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)]()
-[![Outlook](https://img.shields.io/badge/Outlook-00a2ed?style=flat&logo=outlook&logoColor=white)]() 
+[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/anfal-mahmoud-b872142aa)
+[![Outlook](https://img.shields.io/badge/Outlook-00a2ed?style=flat&logo=outlook&logoColor=white)](anfal.mahmoud_mis@bsu.edu.eg) 
 [!["Gmail"](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](anfalm32@gmail.com)
-[!["WhatsApp"](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)]()
-[!["Telegram"](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)]()
-[!["Facebook"](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]()
+[!["WhatsApp"](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201003918616)
+[!["Telegram"](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](http://t.me/AnfalMahmoud32)
 
 
 ---
