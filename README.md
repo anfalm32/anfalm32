@@ -16,17 +16,17 @@ I am a Computer Science graduate with a strong passion for technology, data anal
 ---
 
 ### 🔧 Skills & Technologies
-    Data Analysis & Visualization:* SQL, Excel, Power BI
-    Database Management:* SQL, Excel
-    Programming & Automation:* Python
-    Version Control:* Git & GitHub
+Data Analysis & Visualization:* SQL, Excel, Power BI
+Database Management:* SQL, Excel
+Programming & Automation:* Python
+Version Control:* Git & GitHub
 
 ---
 
 ### 💼 Experience Highlights
-    Dashboard Development:* Skilled in creating interactive, insightful dashboards to drive strategic decisions.
-    Process Optimization:* Automating workflows to enhance efficiency and accuracy.
-    Mentoring & Training:* Certified Trainer (TOT), with a focus on teaching technical skills and guiding others.
+Dashboard Development:* Skilled in creating interactive, insightful dashboards to drive strategic decisions.
+Process Optimization:* Automating workflows to enhance efficiency and accuracy.
+Mentoring & Training:* Certified Trainer (TOT), with a focus on teaching technical skills and guiding others.
     
 ---
 
